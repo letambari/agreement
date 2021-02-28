@@ -1,0 +1,15 @@
+.page-container {
+    display: inline-block;
+    width: 100%;
+    height: auto;
+    min-height: 600px;
+    background-color: #f7fff9;
+}
+.pager {
+    display: inline-block;
+    height: auto;
+    width: 50%;
+    margin: 10px 25%;
+    border: 1px solid #e3e3e3;
+}
+.pager img { width: 100%; }
